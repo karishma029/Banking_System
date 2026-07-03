@@ -156,13 +156,9 @@ public class BankApplication {
                     System.exit(0);
 
                 default:
-
                     System.out.println("Invalid Choice");
                     System.out.println("kari");
             }
-
         }
-
     }
-
 }
