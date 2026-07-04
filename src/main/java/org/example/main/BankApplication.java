@@ -9,13 +9,13 @@ import java.util.Scanner;
 
 public class BankApplication {
 
-    public static void main(String[] args) {
+    public static void main  (String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
         BankService bankService = new BankService();
 
-        while (true) {
+           while (true) {
 
             System.out.println("\n==============================");
             System.out.println("      BANK APPLICATION");

@@ -38,7 +38,7 @@ public class Customer {
     }
 
     public String getEmail() {
-        return email;
+            return email;
     }
 
     public String getAddress() {
